@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: This is a hero headline.
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: >-
+      ### A cross-linguistic investigation of meaning-driven combinatorial
+      restrictions in clausal embedding
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
