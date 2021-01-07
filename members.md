@@ -17,5 +17,6 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/avatar-logo-blueonwhite (1).png
 layout: advanced
 ---
