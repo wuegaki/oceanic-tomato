@@ -3,7 +3,7 @@ title: TITLE
 sections:
   - section_id: hero
     type: section_hero
-    title: ACRONYM
+    title: MECORE
     subtitle: >-
       ### A cross-linguistic investigation of meaning-driven combinatorial
       restrictions in clausal embedding
