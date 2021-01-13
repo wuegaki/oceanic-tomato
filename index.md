@@ -4,9 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: MECORE
-    subtitle: >-
-      ### A cross-linguistic investigation of meaning-driven combinatorial
-      restrictions in clausal embedding
+    subtitle: >
+      ### A cross-linguistic investigation of MEaning-driven COmbinatorial
+      REstrictions in clausal embedding
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
